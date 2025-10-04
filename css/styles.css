@@ -41,12 +41,12 @@ body {
 img{
   max-width: 100%;  
   height: auto;
-  padding: 5 px;
+  padding: 5px;
 }
 
 .factcells {
   background-color: rgba(117, 238, 47, 0.613);
-  padding: 5 px;
+  padding: 5px;
   font-family: Calibri, sans-serif;
 }
 
